@@ -217,7 +217,7 @@ def download_file(url, save_path, max_retries=3):
 
 def get_latest_version():
     """返回固定的最新版本号 v2.6.1"""
-    return "v2.6.1"
+    return "v2.6.2"
 
 def get_download_filename(os_name, arch):
     """根据系统和架构返回正确的文件名"""
